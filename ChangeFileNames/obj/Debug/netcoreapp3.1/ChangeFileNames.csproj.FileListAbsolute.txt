@@ -1,0 +1,13 @@
+C:\Users\giorgio.ursu\Desktop\ChangeFileNames\ChangeFileNames\bin\Debug\netcoreapp3.1\ChangeFileNames.exe
+C:\Users\giorgio.ursu\Desktop\ChangeFileNames\ChangeFileNames\bin\Debug\netcoreapp3.1\ChangeFileNames.deps.json
+C:\Users\giorgio.ursu\Desktop\ChangeFileNames\ChangeFileNames\bin\Debug\netcoreapp3.1\ChangeFileNames.runtimeconfig.json
+C:\Users\giorgio.ursu\Desktop\ChangeFileNames\ChangeFileNames\bin\Debug\netcoreapp3.1\ChangeFileNames.runtimeconfig.dev.json
+C:\Users\giorgio.ursu\Desktop\ChangeFileNames\ChangeFileNames\bin\Debug\netcoreapp3.1\ChangeFileNames.dll
+C:\Users\giorgio.ursu\Desktop\ChangeFileNames\ChangeFileNames\bin\Debug\netcoreapp3.1\ChangeFileNames.pdb
+C:\Users\giorgio.ursu\Desktop\ChangeFileNames\ChangeFileNames\obj\Debug\netcoreapp3.1\ChangeFileNames.csproj.AssemblyReference.cache
+C:\Users\giorgio.ursu\Desktop\ChangeFileNames\ChangeFileNames\obj\Debug\netcoreapp3.1\ChangeFileNames.AssemblyInfoInputs.cache
+C:\Users\giorgio.ursu\Desktop\ChangeFileNames\ChangeFileNames\obj\Debug\netcoreapp3.1\ChangeFileNames.AssemblyInfo.cs
+C:\Users\giorgio.ursu\Desktop\ChangeFileNames\ChangeFileNames\obj\Debug\netcoreapp3.1\ChangeFileNames.csproj.CoreCompileInputs.cache
+C:\Users\giorgio.ursu\Desktop\ChangeFileNames\ChangeFileNames\obj\Debug\netcoreapp3.1\ChangeFileNames.dll
+C:\Users\giorgio.ursu\Desktop\ChangeFileNames\ChangeFileNames\obj\Debug\netcoreapp3.1\ChangeFileNames.pdb
+C:\Users\giorgio.ursu\Desktop\ChangeFileNames\ChangeFileNames\obj\Debug\netcoreapp3.1\ChangeFileNames.genruntimeconfig.cache
